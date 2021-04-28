@@ -1,4 +1,5 @@
 # Artificial-Neural-Network
+### Without application of any framework.
   
 ***Introduction***
 
@@ -6,6 +7,8 @@
 mode using Back propagation algorithm. Data is taken from the ***Research Paper[1]***. 
 
 ***Methodology***
+
+***Everything is from scratch without application of any framework.***
 
 25 Neurons in single hidden layer. Learning rate is 0.9. Momentum coefficient is 0.35.
 The process is iterated till 5000 iterations or till the Mean Square Error (MSE) is below 10e-4.
