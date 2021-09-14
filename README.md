@@ -1,5 +1,4 @@
 # Artificial-Neural-Network
-### Without application of any framework.
   
 ***Introduction***
 
